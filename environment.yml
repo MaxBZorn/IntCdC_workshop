@@ -7,4 +7,5 @@ dependencies:
   - pandas
   - matplotlib
   - jupyterlab
+  - openpyxl
 prefix: C:\Users\Max\anaconda3\envs\py39_workshop
